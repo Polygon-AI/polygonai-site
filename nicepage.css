@@ -36571,8 +36571,8 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-social-icons-1 {
   height: 45px;
   min-height: 16px;
-  width: 156px;
-  min-width: 68px;
+  width: 211px;
+  min-width: 94px;
   margin: 30px auto 47px;
 }
 
@@ -36589,9 +36589,13 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-icon-3 {
   height: 100%;
 }
+
+.u-footer .u-icon-4 {
+  height: 0;
+}
 @media (max-width: 1199px) {
   .u-footer .u-social-icons-1 {
-    width: 156px;
+    width: 211px;
   }
 }
 
